@@ -1,5 +1,3 @@
-.java
-.css
-.jpg
-
+*.css
+*.java
 
